@@ -1,11 +1,11 @@
 import Container from '@mui/material/Container';
 import InformationRow from './componants/informationRow';
 import Cards from './componants/Cards';
-import fagrImg from './media/fajr-prayer (1).png'
-import dhuhrImg from './Media/dhhr-prayer-mosque.png'
-import asrImg from './Media/asr-prayer-mosque.png'
-import maghrebImg from './Media/sunset-prayer-mosque.png'
-import ishaaImg from './Media/night-prayer-mosque.png'
+import fagrImg from '/media/fajr-prayer (1).png'
+import dhuhrImg from '/Media/dhhr-prayer-mosque.png'
+import asrImg from '/Media/asr-prayer-mosque.png'
+import maghrebImg from '/Media/sunset-prayer-mosque.png'
+import ishaaImg from '/Media/night-prayer-mosque.png'
 import Country from "./componants/Country"
 import axios from 'axios'
 import { useEffect,useState,createContext } from 'react';
