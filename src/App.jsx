@@ -1,7 +1,7 @@
 import Container from '@mui/material/Container';
 import InformationRow from './componants/informationRow';
 import Cards from './componants/Cards';
-import fagrImg from '/media/fajr-prayer (1).png'
+import fagrImg from '/Media/fajr-prayer-mosque.png'
 import dhuhrImg from '/Media/dhhr-prayer-mosque.png'
 import asrImg from '/Media/asr-prayer-mosque.png'
 import maghrebImg from '/Media/sunset-prayer-mosque.png'
