@@ -1,8 +1,8 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
 
-// https://vitejs.dev/config/
+// ✅ Replace "prayers-times" with your actual repo or subfolder name
 export default defineConfig({
   plugins: [react()],
-  base: '/prayers-times/',
-})
+  base: "/", 
+});
